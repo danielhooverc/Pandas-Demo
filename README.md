@@ -1,10 +1,38 @@
 # Pandas-Demo
-#本Demo Project使用Pandas,Numpy
-#1.对Excle数据进行上传，
-#2.对上传数据进行拆分，过滤；
-#3.对清洗后的数据进行分组统计；然后输出结果到excle文件
-#4.本Demo Project共有四个模块：
-  BDS_Main : 主程序
-  loadData: 数据进行上传
-  filterData:数据处理
-  groupBy：分组统计，生成结果文件
+
+Demo Project: Data Engineering with Pandas and Numpy
+This demo project demonstrates data engineering tasks using Pandas and Numpy for Excel data manipulation.
+
+Features
+Data Upload: Upload Excel data for processing.
+Data Split and Filter: Split and filter the uploaded data.
+Data Cleaning: Clean the data and perform necessary transformations.
+Data Grouping and Statistics: Perform grouping and statistical operations on the cleaned data and output the results to an Excel file.
+Modules
+The project consists of four modules:
+
+BDS_Main: The main program that coordinates the data engineering tasks.
+loadData: Responsible for data uploading.
+filterData: Handles data splitting and filtering operations.
+groupBy: Performs data grouping and generates the result file.
+Requirements
+To run this project, you need to have the following dependencies installed:
+
+Pandas
+Numpy
+Getting Started
+Clone the repository to your local machine.
+Install the required dependencies using the following command:
+Copy code
+pip install pandas numpy
+Run the BDS_Main.py script to execute the data engineering tasks.
+Usage
+Ensure you have the Excel data file ready for processing.
+Run the BDS_Main.py script, which will prompt you to upload the Excel data.
+The data will be split and filtered according to your requirements.
+The cleaned data will be grouped and summarized.
+The final results will be stored in an Excel file for further analysis.
+Feel free to modify and extend the functionality to suit your specific data engineering needs.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
