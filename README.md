@@ -1,6 +1,6 @@
 # Pandas-Demo
 
-# Demo Project: Data Engineering with Pandas and Numpy
+# Demo Project: Data Processing with Pandas and Numpy
 * This demo project demonstrates data engineering tasks using Pandas and Numpy for Excel data manipulation.
 
 # Features
