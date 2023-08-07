@@ -25,9 +25,9 @@ def main():
       计算出每个人员工时所占小类百分比
     5.将结果按照统计日期保存为Excel文件
     6.分为三个函数实现：
-      def loadData(monthFile,flagSN) 上传Excel文件; 做初步处理生成DataFrame
-      def filterData(df) 进行数据的过滤和清洗；剔除空行;标注统计标记；拆分生成主类，子类列
-      def groupBy(res_Filter) 分组统计；并将结果保存为Excel文件
+      def load_data(monthFile,flagSN) 上传Excel文件; 做初步处理生成DataFrame
+      def filter_data(df) 进行数据的过滤和清洗；剔除空行;标注统计标记；拆分生成主类，子类列
+      def groupby_data(res_Filter) 分组统计；并将结果保存为Excel文件
     """
 
     # 指定要处理的Excel文件
