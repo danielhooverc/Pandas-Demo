@@ -12,10 +12,10 @@
 # Modules
 ## The project consists of four modules:
 
-* BDS_Main: The main program that coordinates the data engineering tasks.
-* loadData: Responsible for data uploading.
-* filterData: Handles data splitting and filtering operations.
-* groupBy: Performs data grouping and generates the result file.
+* main: The main program that coordinates the data engineering tasks.
+* module_loaddata: Responsible for data uploading.
+* module_filterdata: Handles data splitting and filtering operations.
+* module_groupby: Performs data grouping and generates the result file.
 
 # Requirements
 * To run this project, you need to have the following dependencies installed:
