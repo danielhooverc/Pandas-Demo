@@ -1,7 +1,7 @@
 
-from  BSD.module_filterdata import filter_data
-from  BSD.module_groupby import groupby_data
-from  BSD.module_loaddata import load_data
+from  module_filterdata import filter_data
+from  module_groupby import groupby_data
+from  module_loaddata import load_data
 
 
 
