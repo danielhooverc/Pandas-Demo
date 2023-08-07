@@ -1,7 +1,8 @@
 import numpy as np
 import pandas as pd
 
-#功能描述: 进行数据的过滤和清洗；剔除空行;标注统计标记；拆分生成主类，子类列
+# 2022-09-22
+# 功能描述: 进行数据的过滤和清洗；剔除空行;标注统计标记；拆分生成主类，子类列  
 def filterData(df):
     # 首先将Duration处理只保留2位小鼠
     df["Duration"] = round(df["Duration"], 2)
