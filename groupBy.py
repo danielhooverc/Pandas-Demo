@@ -2,7 +2,8 @@ import numpy as np
 import pandas as pd
 
 
-#功能描述：分组统计；并将结果保存为Excel文件
+# 2022-09-22
+# 功能描述：分组统计；并将结果保存为Excel文件
 
 def groupBy(res_Filter):
     df = res_Filter[0]  # 获取数据集
