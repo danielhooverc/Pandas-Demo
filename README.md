@@ -1,13 +1,13 @@
 # Pandas-Demo
 
-#Demo Project: Data Engineering with Pandas and Numpy
-*This demo project demonstrates data engineering tasks using Pandas and Numpy for Excel data manipulation.
+# Demo Project: Data Engineering with Pandas and Numpy
+* This demo project demonstrates data engineering tasks using Pandas and Numpy for Excel data manipulation.
 
-#Features
-*Data Upload: Upload Excel data for processing.
-*Data Split and Filter: Split and filter the uploaded data.
-*Data Cleaning: Clean the data and perform necessary transformations.
-*Data Grouping and Statistics: Perform grouping and statistical operations on the cleaned data and output the results to an Excel file.
+# Features
+* Data Upload: Upload Excel data for processing.
+* Data Split and Filter: Split and filter the uploaded data.
+* Data Cleaning: Clean the data and perform necessary transformations.
+* Data Grouping and Statistics: Perform grouping and statistical operations on the cleaned data and output the results to an Excel file.
 Modules
 
 #The project consists of four modules:
