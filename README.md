@@ -31,7 +31,7 @@
 
 # Usage
 * Ensure you have the Excel data file ready for processing.
-* Run the BDS_Main.py script, which will prompt you to upload the Excel data.
+* Run the BDS_Main.py script, which you will provide the path to upload the Excel file.
 * The data will be split and filtered according to your requirements.
 * The cleaned data will be grouped and summarized.
 * The final results will be stored in an Excel file for further analysis.
